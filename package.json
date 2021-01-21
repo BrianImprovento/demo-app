@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "keycloak-js": "^12.0.2",
+    "vuejs-logger": "^1.5.5"
+  }
+}
